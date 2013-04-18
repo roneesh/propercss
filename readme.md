@@ -28,7 +28,7 @@ This commmand creates the following files and folders in "app/assets/stylesheets
     - app/assets/stylesheets/modules/aside.sass
     - app/assets/stylesheets/modules/footer.sass
     - app/assets/stylesheets/modules/header.sass
-  
+&nbsp;  
 * "rails g propercss normalize_only"
 &nbsp;
 This command creates the following files and folders in "- app/assets/stylesheets"
