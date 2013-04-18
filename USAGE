@@ -1,0 +1,23 @@
+Description:
+    This generator proper CSS files (using SASS) for your app.
+
+Example:
+    rails generate propercss [css_style]
+
+    This will create      
+      app/assets/stylesheets/base
+      app/assets/stylesheets/components
+      app/assets/stylesheets/modules
+      app/assets/stylesheets/base/normalize.css
+      app/assets/stylesheets/base/layout.sass
+      app/assets/stylesheets/base/typography.sass
+      app/assets/stylesheets/components/alerts.sass
+      app/assets/stylesheets/components/buttons.sass
+      app/assets/stylesheets/components/forms.sass
+      app/assets/stylesheets/components/list.sass
+      app/assets/stylesheets/components/nav.sass
+      app/assets/stylesheets/components/tables.sass
+      app/assets/stylesheets/modules/aside.sass
+      app/assets/stylesheets/modules/footer.sass
+      app/assets/stylesheets/modules/header.sass
+
