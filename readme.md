@@ -6,7 +6,6 @@
 * Clone this repo into lib/generators
 * Run one of the two versions of the generate command
 &nbsp;
-### THE GENERATE COMMAND: 
 
 There are currently two versions of the generate command:
 
