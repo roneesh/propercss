@@ -10,10 +10,10 @@
 
 There are currently two versions of the generate command:
 
-* 1. "rails g propercss"
+* "rails g propercss"
 
 This commmand creates the following files and folders in "app/assets/stylesheets":
-    app/assets/stylesheets/base
+    'app/assets/stylesheets/base
     app/assets/stylesheets/components
     app/assets/stylesheets/modules
     app/assets/stylesheets/base/normalize.css
@@ -27,9 +27,9 @@ This commmand creates the following files and folders in "app/assets/stylesheets
     app/assets/stylesheets/components/tables.sass
     app/assets/stylesheets/modules/aside.sass
     app/assets/stylesheets/modules/footer.sass
-    app/assets/stylesheets/modules/header.sass
+    app/assets/stylesheets/modules/header.sass'
 
-* 2. "rails g propercss normalize_only"
+* "rails g propercss normalize_only"
 
 This command creates the following files and folders in "app/assets/stylesheets":
     app/assets/stylesheets/base
